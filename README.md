@@ -2,44 +2,47 @@ JavaScript
 
 Projekt 1 "Dodawanie elementów po kliknięciu", składa się z dwóch mniejszych:
 
-a) Ponumerowane kwadraty dodawane po kliknięciu przycisku  - co piąty div okręgiem
-b) Dodawanie elementów listy przyciskiem
+a) Ponumerowane kwadraty dodawane po kliknięciu przycisku  - co piąty div okręgiem:
+addingElementsAndChanchingSize.html
 
-Połączone między sobą pliki:
-- addingElementsAndChanchingSize.html 
-- addingListItemsFromButton.html
+b) Dodawanie elementów listy przyciskiem:
+addingListItemsFromButton.html
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Projekt 2 "Zmiana wielkości elementu przy skrolowaniu strony", składa się z dwóch mniejszych:
 
-a) Kwadrat zmieniający rozmiar przy skrolowaniu strony
-b) Pasek zmieniający grubość i kolor przy skrolowaniu
+a) Kwadrat zmieniający rozmiar przy skrolowaniu strony:
+skrolowanie1.html + mainSkrolowanie1.js
 
-Połączone między sobą pliki:
-- skrolowanie1.html + mainSkrolowanie1.js
-- skrolowanie2.html + mainSkrolowanie2.js
+b) Pasek zmieniający grubość i kolor przy skrolowaniu:
+skrolowanie2.html + mainSkrolowanie2.js
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Projekt 3 "Trening pętli for i metody forEach", składa się z dwóch mniejszych:
 
-a) Pojawienie sięelementu i powiększenie go przez kliknięcie przycisku
-b) Tworzenie listy i dodawanie kolejnych elementów przez kliknięcie
+a) Pojawienie sięelementu i powiększenie go przez kliknięcie przycisku:
+magnificationOfElements.html + magnificationOfElements.js
 
-Połączone między sobą pliki:
-- magnificationOfElements.html + magnificationOfElements.js
-- createAListAndAddItemsByClicking.html + createAListAndAddItemsByClicking.js
+b) Tworzenie listy i dodawanie kolejnych elementów przez kliknięcie:
+createAListAndAddItemsByClicking.html + createAListAndAddItemsByClicking.js
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Projekt 4 "Wykrywanie i obsługa eventów", składa się z dwóch mniejszych:
 
-a) Wykrycie i wyświetlenie pozycji myszki
-b) Zmiana koloru tła przy ruchu myszką
-c) Optymalizacja projektu
-d) Zmiana koloru tła przy kliknięciu zależnie od pozycji
-e) Łapanie i upuszczanie kwadratu ze zmianą jego koloru
-f) Rozjaśnianie i przyciemnianie tła przy pomocy klawiszy
+a) Wykrycie i wyświetlenie pozycji myszki, także zmiana koloru tła przy ruchu myszką
+colorChangeDetectingAndDisplayingMousePositions.html + colorChangeDetectingAndDisplayingMousePositions.js
 
-Połączone między sobą pliki:
+b) Zmiana koloru tła przy kliknięciu zależnie od pozycji myszki:
+changeBackgroundColorWhenClickingMouse.html + changeBackgroundColorWhenClickingMouse.js
+
+c) Łapanie i upuszczanie kwadratu ze zmianą jego koloru:
+catchingAndDroppingSquareWithChangingColor.html + catchingAndDroppingSquareWithChangingColor.js
+
+d) Rozjaśnianie i przyciemnianie tła przy pomocy klawiszy:
+brighteningAndDimmingBackgroundFromKeys.html + brighteningAndDimmingBackgroundFromKeys.js
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
