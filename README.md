@@ -46,13 +46,13 @@ brighteningAndDimmingBackgroundFromKeys.html + brighteningAndDimmingBackgroundFr
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Projekt 5 "Password - Message", składa się z dwóch mniejszych:
+Projekt 5  mini aplikacja "Password - Message":
 
-a)
-b)
-c)
-d)
+a) podanie wiele haseł i wiadomości:
+enteringMultiplePasswordsAndMessages.html + enteringMultiplePasswordsAndMessages.js
 
-Połączone między sobą pliki:
+b)sprawdzenie czy wpisane w input hasło pasuje do któregoś z haseł w tablicy
+enteredPasswordMatchesAnyPasswordOnTheArraySataAtructure.js + enteredPasswordMatchesAnyPasswordOnTheArraySataAtructure.html
+
 
 -----------------------------------------------------------------------------------------------------------------------------------
