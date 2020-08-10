@@ -1,6 +1,6 @@
 JavaScript
 
-Projekt 1 "Dodawanie elementów po kliknięciu", składa się z dwóch mniejszych:
+Projekt 1, "Dodawanie elementów po kliknięciu":
 
 a) Ponumerowane kwadraty dodawane po kliknięciu przycisku  - co piąty div okręgiem:
 addingElementsAndChanchingSize.html
@@ -10,7 +10,7 @@ addingListItemsFromButton.html
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Projekt 2 "Zmiana wielkości elementu przy skrolowaniu strony", składa się z dwóch mniejszych:
+Projekt 2, "Zmiana wielkości elementu przy skrolowaniu strony":
 
 a) Kwadrat zmieniający rozmiar przy skrolowaniu strony:
 skrolowanie1.html + mainSkrolowanie1.js
@@ -20,7 +20,7 @@ skrolowanie2.html + mainSkrolowanie2.js
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Projekt 3 "Trening pętli for i metody forEach", składa się z dwóch mniejszych:
+Projekt 3, "Trening pętli for i metody forEach":
 
 a) Pojawienie sięelementu i powiększenie go przez kliknięcie przycisku:
 magnificationOfElements.html + magnificationOfElements.js
@@ -30,7 +30,7 @@ createAListAndAddItemsByClicking.html + createAListAndAddItemsByClicking.js
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Projekt 4 "Wykrywanie i obsługa eventów", składa się z dwóch mniejszych:
+Projekt 4, "Wykrywanie i obsługa eventów":
 
 a) Wykrycie i wyświetlenie pozycji myszki, także zmiana koloru tła przy ruchu myszką
 colorChangeDetectingAndDisplayingMousePositions.html + colorChangeDetectingAndDisplayingMousePositions.js
@@ -46,13 +46,62 @@ brighteningAndDimmingBackgroundFromKeys.html + brighteningAndDimmingBackgroundFr
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Projekt 5  mini aplikacja "Password - Message":
+Projekt 5,  mini aplikacja "Password - Message":
 
 a) podanie wiele haseł i wiadomości:
 enteringMultiplePasswordsAndMessages.html + enteringMultiplePasswordsAndMessages.js
 
-b)sprawdzenie czy wpisane w input hasło pasuje do któregoś z haseł w tablicy
+b) sprawdzenie czy wpisane w input hasło pasuje do któregoś z haseł w tablicy:
 enteredPasswordMatchesAnyPasswordOnTheArraySataAtructure.js + enteredPasswordMatchesAnyPasswordOnTheArraySataAtructure.html
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Projekt 6,  mini aplikacja "Losowanie elementów":
+
+a) generujemy losowe Imię:
+randomNameForKids.html + randomNameForKids.js
+
+b) generujemy losowy kod, który składa się z 10 symboli:
+randomCode.html + randomCode.js
+
+c) dodawanie elementu do tablicy:
+
+
+d) apka życzenie:
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Projekt 7,  gra "Papier, kamień, nożyczki":
+
+a) wybór gracza:
+
+
+b) wybór komputera (AI):
+
+
+c) określenie strony wygranej:
+
+
+d) publikacja wyniku:
+
+
+e) :
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Projekt 8,  "typing - efekt pisania na maszynie":
+
+a) :
+
+
+b) :
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
