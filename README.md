@@ -77,19 +77,20 @@ d) apka życzenie:
 
 Projekt 7,  gra "Papier, kamień, nożyczki":
 
-a) wybór gracza:
+a) końcowy wygląd gry:
 
 
-b) wybór komputera (AI):
+b) wybór gracza:
 
 
-c) określenie strony wygranej:
+c) wybór komputera (AI):
 
 
-d) publikacja wyniku:
+d) określenie strony wygranej:
 
 
-e) :
+e) publikacja wyniku:
+
 
 
 
