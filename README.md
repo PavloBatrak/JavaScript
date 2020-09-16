@@ -65,10 +65,8 @@ randomNameForKids.html + randomNameForKids.js
 b) generujemy losowy kod, który składa się z 10 symboli:
 randomCode.html + randomCode.js
 
-c) dodawanie elementu do tablicy:
-
-
-d) apka życzenie:
+c) dodawanie elementu do tablicy: ---
+d) apka życzenie: ---
 
 
 
@@ -78,7 +76,9 @@ d) apka życzenie:
 Projekt 7,  gra "Papier, kamień, nożyczki":
 
 a) końcowy wygląd gry:
+IMG dla gry we wkładce "Issues"
 
+game.js + game.html
 
 b) wybór gracza:
 
