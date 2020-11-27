@@ -76,7 +76,7 @@ d) apka życzenie: ---
 Projekt 7,  gra "Papier, kamień, nożyczki":
 
 a) końcowy wygląd gry:
-IMG dla gry we wkładce "Issues"
+IMG dla gry w zakładce "Issues"
 
 game.js + game.html
 
